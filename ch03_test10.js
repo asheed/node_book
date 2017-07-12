@@ -12,4 +12,4 @@ console.log('\nforEach 구문 사용하기');
 // 각 배열의 요소마다, 아래 함수가 실행됨.
 Users.forEach(function (item, index) {
     console.log('배열 요소 #' + index + ' : %s', item.name);
-})
+});
